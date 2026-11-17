@@ -8,7 +8,7 @@ The written report is in Overleaf and is **not** stored in this repo.
 
 | Member | Name | GitHub | Architecture topic / feature | Experiment |
 |---|---|---|---|---|
-| 1 | `<name>` | `<github-username>` | SQL layer, query processing; case study setup (Docker cluster); later: data pipeline and report integration | Setup + pipeline |
+| 1 | `Gurshaan` | `Gurshaan-Deol` | SQL layer, query processing; case study setup (Docker cluster); later: data pipeline and report integration | Setup + pipeline |
 | 2 | `<name>` | `<github-username>` | Distribution layer; data storage and sharding | Scalability |
 | 3 | `<name>` | `<github-username>` | Replication layer; replication | Replication |
 | 4 | `<name>` | `<github-username>` | Transaction layer; transaction processing | Transaction behaviour |
