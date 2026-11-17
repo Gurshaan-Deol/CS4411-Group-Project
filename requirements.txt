@@ -1,0 +1,4 @@
+# TODO: pin versions once everyone has it working.
+psycopg[binary]
+pandas
+matplotlib
